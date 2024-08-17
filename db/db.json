@@ -84,22 +84,20 @@
       "name": "Nokia 7610 5G",
       "display": "AMOLED 6.67 \"",
       "memory": "256 GB + 12 GB",
-      "processor": "4500 mAh",
-      "battery": "",
+      "processor": "Qualcomm Snapdragon 7 Plus Gen 2",
+      "battery": "4500 mAh",
       "image": "https://www.gsmarena.com.bd/images/products/Nokia-76105G.jpg",
-      "price": "54,000 Kes",
-      "": "Qualcomm Snapdragon 7 Plus Gen 2"
+      "price": "54,000 Kes"
     },
     {
       "id": "3636",
       "name": "HTC U24 Pro",
       "display": "OLED, 120Hz",
       "memory": "256GB +12GB ",
-      "processor": "4600 mAh, non-removable",
-      "battery": "",
+      "processor": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+      "battery": "4600 mAh, non-removable",
       "image": "https://fdn2.gsmarena.com/vv/pics/htc/htc-u24-pro-r1.jpg",
-      "price": "70,000 kes",
-      "": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)"
+      "price": "70,000 kes"
     }
   ]
 }
